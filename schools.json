@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Escuela Infantil  Y Aula de Casa de niños “RINCÓN FLORIDO”",
+        "direccion": "Carretera de los Molinos ,23",
+        "tipo": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.066840410232544,
+          40.7342263007788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Mi casa",
+        "direccion": "tfno",
+        "tipo": "eso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0574634075164795,
+          40.74296517390357
+        ]
+      }
+    }
+  ]
+}
