@@ -7,7 +7,8 @@
         "nombre": "Escuela Infantil  Y Aula de Casa de niños “RINCÓN FLORIDO”",
         "direccion": "Carretera de los Molinos ,23",
         "tipo": "school",
-        "website": "http://www.eirinconflorido.es"
+        "website": "http://www.eirinconflorido.es",
+        "tfno": "91 852 39 40"
       },
       "geometry": {
         "type": "Point",
@@ -29,6 +30,57 @@
         "coordinates": [
           -4.0574634075164795,
           40.74296517390357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "direccion": "Avenida de Blanca Fernández Ochoa, 5",
+        "nombre": "Colegio Público CEIP “VÍA ROMANA”",
+        "tipo": "school",
+        "website": " http://www.educa.madrid.org/cp.viaromana.cercedilla",
+        "tfno": "91 852 05 75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.048880338668823,
+          40.74059156565278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "COLEGIO CONCERTADO “REGINA ASSUMPTA",
+        "tfno": "91 852 03 13",
+        "website": "http://www.reginaassumpta.es",
+        "tipo": "school",
+        "direccion": "Calle San Andrés 9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0500712394714355,
+          40.736006685255184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "IES “LA DEHESILLA”",
+        "direccion": "Camino De la Dehesilla y Rodeo, S/N",
+        "tipo": "school",
+        "website": "http://www.educa.madrid.org/ies.ladehesilla.cercedilla",
+        "tfno": "91 852 17 63"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.043188691139221,
+          40.73348242739977
         ]
       }
     }
