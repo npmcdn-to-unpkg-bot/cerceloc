@@ -88,7 +88,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Escuela de Música y Danza",
+        "nombre": "Escuela de Música y Danza Joaquin Sorolla",
         "direccion": "Calle Carrera del Señor,7",
         "tipo": "music_school",
         "tfno": "91 852 36 20",
@@ -339,6 +339,51 @@
         "coordinates": [
           -4.044106006622314,
           40.74353417699336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Plaza de Toros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0506720542907715,
+          40.74039647079659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Iglesia de Nuestra Señora del Carmen",
+        "tipo": "church",
+        "direccion": "Travesía del Carmen s/n",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.056462943553925,
+          40.7406342425763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Iglesia de San Sebastian",
+        "direccion": "Calle Iglesia,2",
+        "tipo": "church",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.055969417095184,
+          40.74277211817789
         ]
       }
     }
