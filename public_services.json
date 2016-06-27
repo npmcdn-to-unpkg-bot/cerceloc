@@ -1,0 +1,254 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Escuela Infantil  Y Aula de Casa de niños “RINCÓN FLORIDO”",
+        "direccion": "Carretera de los Molinos ,23",
+        "tipo": "school",
+        "website": "http://www.eirinconflorido.es",
+        "tfno": "91 852 39 40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.066840410232544,
+          40.7342263007788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "direccion": "Avenida de Blanca Fernández Ochoa, 5",
+        "nombre": "Colegio Público CEIP “VÍA ROMANA”",
+        "tipo": "school",
+        "website": " http://www.educa.madrid.org/cp.viaromana.cercedilla",
+        "tfno": "91 852 05 75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.048880338668823,
+          40.74059156565278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "COLEGIO CONCERTADO “REGINA ASSUMPTA",
+        "tfno": "91 852 03 13",
+        "website": "http://www.reginaassumpta.es",
+        "tipo": "school",
+        "direccion": "Calle San Andrés 9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0500712394714355,
+          40.736006685255184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "IES “LA DEHESILLA”",
+        "direccion": "Camino De la Dehesilla y Rodeo, S/N",
+        "tipo": "school",
+        "website": "http://www.educa.madrid.org/ies.ladehesilla.cercedilla",
+        "tfno": "91 852 17 63"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.043188691139221,
+          40.73348242739977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "direccion": "Av. de los Toreros s/n",
+        "nombre": "Centro de Salud",
+        "tipo": "health_center",
+        "website": "http://www.cercedilla.es/sanidad/",
+        "tfno": "918520746 / 918523687 / 918523208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.050768613815308,
+          40.74109555804948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Centro de Mayores",
+        "direccion": "Plaza Mayor",
+        "tipo": "old_people_center",
+        "website": "http://www.cercedilla.es/centro-de-mayores/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.055154025554657,
+          40.741376003777795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Escuela de Música y Danza",
+        "direccion": "Calle Carrera del Señor,7",
+        "tipo": "music_school",
+        "tfno": "91 852 36 20",
+        "website": "http://www.cercedilla.es/escuela-de-musica/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.056999385356903,
+          40.740983785871684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Polideportivo",
+        "direccion": "C  Manuel González Amezúa, 2",
+        "tipo": "sport_center",
+        "website": "http://www.cercedilla.es/polideportivo/",
+        "tfno": "91 852 35 92"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.04820442199707,
+          40.74112807355681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Biblioteca",
+        "direccion": "Calle REgistros 47",
+        "tipo": "public_library",
+        "website": "http://www.cercedilla.es/biblioteca/",
+        "tfno": "91 852 34 68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.058528244495392,
+          40.73981524731254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Centro Cultural Luis Rosales",
+        "direccion": "Calle Arroyo 3",
+        "tipo": "public_center",
+        "website": "http://www.cercedilla.es/centros-culturales/",
+        "tfno": "91 852 36 20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.054630994796753,
+          40.74033143905071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Supersol",
+        "direccion": "Plaza Maria Minguez, 7",
+        "tipo": "supermarket",
+        "tfno": "91 852 36 20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.055046737194061,
+          40.740510276198904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Supermercado Gama",
+        "direccion": "Avenida Sierra de Guadarrama 19",
+        "tipo": "supermarket",
+        "tfno": "918 52 10 89"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.054183065891266,
+          40.74194705265642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Supermercado Gigante",
+        "direccion": "Calle Mayor",
+        "tipo": "supermarket",
+        "tfno": "918 54 77 53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0570878982543945,
+          40.74064846821139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "FARMACIA OPTICA Alvarez López",
+        "direccion": "Calle de Emilio Serrano, 28",
+        "tipo": "pharmacy",
+        "tfno": "918 52 06 17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.066615104675293,
+          40.73786018559518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Fernández Cabrera Isabel",
+        "direccion": "Plaza Mayor 7",
+        "tipo": "pharmacy",
+        "tfno": "918 52 00 22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.055339097976685,
+          40.741353649451526
+        ]
+      }
+    }
+  ]
+}
