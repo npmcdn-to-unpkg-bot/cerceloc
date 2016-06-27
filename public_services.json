@@ -38,23 +38,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "COLEGIO CONCERTADO “REGINA ASSUMPTA",
-        "tfno": "91 852 03 13",
-        "website": "http://www.reginaassumpta.es",
-        "tipo": "school",
-        "direccion": "Calle San Andrés 9"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0500712394714355,
-          40.736006685255184
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nombre": "IES “LA DEHESILLA”",
         "direccion": "Camino De la Dehesilla y Rodeo, S/N",
         "tipo": "school",
@@ -140,7 +123,7 @@
       "type": "Feature",
       "properties": {
         "nombre": "Biblioteca",
-        "direccion": "Calle REgistros 47",
+        "direccion": "Calle Registros 47",
         "tipo": "public_library",
         "website": "http://www.cercedilla.es/biblioteca/",
         "tfno": "91 852 34 68"
@@ -247,6 +230,115 @@
         "coordinates": [
           -4.055339097976685,
           40.741353649451526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Area Recreativa Las Berceas",
+        "tipo": "swimming_pool",
+        "tfno": "91 852 37 04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.064490795135498,
+          40.76994681774567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Aventura Amazonia",
+        "tipo": "nature_center",
+        "website": "",
+        "tfno": "918 52 25 46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0654778480529785,
+          40.77098685464933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Estación de tren",
+        "direccion": "Calle de Emilio Serrano",
+        "tipo": "train station",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.065756797790527,
+          40.7375024965684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "COLEGIO CONCERTADO “REGINA ASSUMPTA",
+        "direccion": "Calle San Andrés 9",
+        "tipo": "school",
+        "website": "http://www.reginaassumpta.es",
+        "tfno": "91 852 03 13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.057860374450684,
+          40.73820161423571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque de Pradoluengo",
+        "direccion": "Calle de Emilio Serrano",
+        "tipo": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.061765670776367,
+          40.73800651236999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Gasolinera",
+        "direccion": "Calle de los Hermanos Rovira, 1",
+        "tipo": "gas_station",
+        "website": "http://www.gasolineracercedilla.es/index.html",
+        "tfno": " 91 852 07 28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.067521691322327,
+          40.73292959808068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque Ermita San Antonio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.044106006622314,
+          40.74353417699336
         ]
       }
     }
