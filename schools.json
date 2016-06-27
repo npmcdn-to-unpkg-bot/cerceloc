@@ -6,7 +6,8 @@
       "properties": {
         "nombre": "Escuela Infantil  Y Aula de Casa de niños “RINCÓN FLORIDO”",
         "direccion": "Carretera de los Molinos ,23",
-        "tipo": "school"
+        "tipo": "school",
+        "website": "http://www.eirinconflorido.es"
       },
       "geometry": {
         "type": "Point",
