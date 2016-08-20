@@ -1,0 +1,14 @@
+.fa{
+    transform: translate(0, 5px);
+}
+
+.fa-spinner{
+  position: relative;
+  top: 5px;
+}
+
+.text-labels {
+    font-size: 0.7em;
+    font-weight: 700;
+    /* Use color, background, set margins for offset, etc */
+}

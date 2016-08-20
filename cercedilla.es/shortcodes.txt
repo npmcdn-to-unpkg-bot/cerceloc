@@ -1,0 +1,9 @@
+Escuelas
+
+[leaflet-map height=550 lat=40.74104678475861 lng=-4.0573883056640625 zoom=14]
+[leaflet-geojson src="http://jesidea.com/cercepois/wp-content/plugins/pods/geojson_ccp.php?layer=school"]
+
+Transporte publico
+
+[leaflet-map height=550 lat=40.74104678475861 lng=-4.0573883056640625 zoom=14]
+[leaflet-geojson src="http://jesidea.com/cercepois/wp-content/plugins/pods/geojson_ccp.php?layer=public_transpo"]
